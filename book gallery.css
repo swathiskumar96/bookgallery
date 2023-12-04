@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Potta+One&family=Rubik+Bubbles&display=swap');
+
+body {
+    background-image: url(./book_gallery/janko-ferlic-sfL_QOnmy00-unsplash.jpg);
+    background-size: cover;
+}
+
+.b {
+
+    width: 30%;
+    border: solid 22px rgba(255, 255, 255, 0.26);
+    float: left;
+    background-color: rgba(0, 0, 0, 0.863);
+
+}
+
+img {
+    width: 100%;
+    height: 400px;
+
+    /* box-shadow: 10px 10px 5px lightblue; */
+    /* box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); */
+    /* box-shadow: 10px 10px lightblue; */
+}
+
+img:hover {
+    box-shadow: 10px 10px 5px lightblue;
+}
+
+p {
+    color: white;
+    padding: 11px;
+    opacity: 0;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+
+}
+
+h5 {
+    color: white;
+    text-align: center;
+
+}
+
+p:hover {
+    opacity: 1;
+}
+
+head h1 {
+    font-family: Rubik Bubbles;
+}
+
+.head1 {
+    font-family: Rubik Bubbles;
+    color: white;
+
+}
+
+label {
+    color: white;
+
+}
+
+a {
+    color: white;
+}
+.home1{
+    text-align: left;
+}
